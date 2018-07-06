@@ -44,7 +44,7 @@ Obviously, `make` is required to build. `fontconfig` is required for the default
 
 ## Custom changes (`config.def.h` or `config.h`)
 
-### Solarized
+### Solarized(not relevant)
 
 By default, the terminal is transparent with a blackish background. There's a patch file `solarized-alpha-toggle.patch` which you can use to remove the transparency and give it a typical deep, dark blue solarized background. Just run:
 
