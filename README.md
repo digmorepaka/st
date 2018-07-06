@@ -1,7 +1,7 @@
 # digmorepaka's customized ST,
 i added colors that i like
 
-The rest is origina documentation:
+The rest is original documentation:
 
 # Luke's build of st - the simple (suckless) terminal
 Forked from [https://github.com/shiva/st](https://github.com/shiva/st) for simplicity's sake, which is the [suckless terminal (st)](https://st.suckless.org/) with some patches added:
