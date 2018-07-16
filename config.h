@@ -101,7 +101,7 @@ static const char *colorname[] = {
 	"#839496",  /* 12: brblue   */
 	"#6c71c4",  /* 13: brmagenta*/
 	"#93a1a1",  /* 14: brcyan   */
-	"#fdf6e3",  /* 15: brwhite  */
+	"#0b0629",  /* 15: brwhite  */
 	/* more colors can be added after 255 to use with DefaultXX */
 	"black",   /* 256 -> bg */
 	"#00cc00", /* 257 -> fg */
@@ -114,7 +114,7 @@ static const char *colorname[] = {
  * foreground, background, cursor, reverse cursor
  */
 unsigned int defaultfg = 7;
-unsigned int defaultbg = 0;
+unsigned int defaultbg = 15;
 static unsigned int defaultcs = 14;
 static unsigned int defaultrcs = 15;
 
@@ -125,7 +125,7 @@ static unsigned int defaultrcs = 15;
  * 6: Bar ("|")
  * 7: Snowman ("☃")
  */
-static unsigned int cursorshape = 2;
+static unsigned int cursorshape = 6;
 
 /*
  * Default columns and rows numbers
