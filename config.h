@@ -101,7 +101,7 @@ static const char *colorname[] = {
 	"#839496",  /* 12: brblue   */
 	"#6c71c4",  /* 13: brmagenta*/
 	"#93a1a1",  /* 14: brcyan   */
-	"#0b0629",  /* 15: brwhite  */
+	"#1f2129",  /* 15: brwhite  */
 	/* more colors can be added after 255 to use with DefaultXX */
 	"black",   /* 256 -> bg */
 	"#00cc00", /* 257 -> fg */
@@ -178,8 +178,8 @@ static Shortcut shortcuts[] = {
 	{ MODKEY|ShiftMask,     XK_Home,        zoomreset,      {.f =  0} },
 	{ ShiftMask,            XK_Insert,      selpaste,       {.i =  0} },
 	{ MODKEY|ShiftMask,     XK_Insert,      clippaste,      {.i =  0} },
-	{ MODKEY|ShiftMask,     XK_C,           clipcopy,       {.i =  0} },
-	{ MODKEY|ShiftMask,     XK_V,           clippaste,      {.i =  0} },
+	{ MODKEY,	        XK_C,           clipcopy,       {.i =  0} },
+	{ MODKEY,     	        XK_V,           clippaste,      {.i =  0} },
 	{ TERMMOD,              XK_Num_Lock,    numlock,        {.i =  0} },
 	{ MODKEY,               XK_Control_L,   iso14755,       {.i =  0} },
 	{ ShiftMask,            XK_Page_Up,     kscrollup,      {.i = -1} },
