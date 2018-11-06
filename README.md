@@ -1,9 +1,9 @@
 # digmorepaka's customized ST,
 i added colors that i like
 
-## Screenshot
+## Screenshots
 ![genericScreenshot](https://i.imgur.com/KIdUZKY.jpg)
-
+![genericScreenshot](https://i.imgur.com/RXZTLlM.jpg)
 The rest is original documentation:
 
 # Luke's build of st - the simple (suckless) terminal
