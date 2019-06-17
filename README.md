@@ -2,8 +2,7 @@
 i added colors that i like
 
 ## Screenshots
-![genericScreenshot](https://i.imgur.com/KIdUZKY.jpg)
-![genericScreenshot](https://i.imgur.com/RXZTLlM.jpg)
+![genericScreenshot](https://lewd.pics/p/UBHs.png)
 The rest is original documentation:
 
 # Luke's build of st - the simple (suckless) terminal
