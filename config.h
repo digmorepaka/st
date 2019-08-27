@@ -7,7 +7,7 @@
  */
 //static char *font = "mono:pixelsize=14:antialias=true:autohint=true";
 //static int borderpx = 2;
-static char font[] = "Terminus:pixelsize=10:antialias=true:autohint=false";
+static char font[] = "xos4 Terminus:pixelsize=10:antialias=true:autohint=false";
 static int borderpx = 2;
 /*
  * What program is execed by st depends of these precedence rules:
