@@ -35,7 +35,7 @@ make
 sudo make install
 ```
 
-## Dependancies: 
+## Dependencies: 
 + `make`
 + `libX11`
 + `libXft`
